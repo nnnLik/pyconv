@@ -1,0 +1,10 @@
+.venv
+*.pyc
+dist
+*.egg-info
+build
+docs/_build
+.tags*
+.coverage
+.tox
+.cache
